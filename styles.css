@@ -1,0 +1,28 @@
+
+
+*{ box-sizing: border-box;
+	margin:0;
+ }
+ header{
+ 	height:72px;
+ }
+ nav{
+ 	background-color:light white;
+ 	box-shadow: 0px 8px  24px rgb(0, 0, 0, 0.1);
+ 	color:dark black;
+ 	
+ }
+ nav{
+ 	display:flex;
+ 	align-items: center;
+ 	justify-content: space-between;
+ }
+ nav ul{
+ 	display: flex;
+
+ }
+ nav li{
+ 	list-style: none;
+ 	text-decoration-style: none;
+ 	margin-right: 100px;
+ }
