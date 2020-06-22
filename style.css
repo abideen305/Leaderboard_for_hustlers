@@ -2,8 +2,37 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: white;
 }
 
+.head{
+    background-color: blue;
+    margin: auto;
+
+}
+
+.rank{
+    display: inline-flex;
+    float: right;
+}
+
+p, .stages{
+    text-align: center;
+
+}
+
+.points{
+    text-size-adjust: 30px;
+}
+
+ ul, li{
+
+    display: inline-block;
+    color: white;
+    position: relative;
+    margin-right: 40px;
+    
+}
 table {
     margin: auto;
     width: 70%;
